@@ -2,6 +2,7 @@
 #include "modAlphaCipher.h"
 #include "exception.h"
 #include <codecvt>
+
 using namespace std;
 int main ()
 {
