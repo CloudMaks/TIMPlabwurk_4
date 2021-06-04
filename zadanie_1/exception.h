@@ -1,6 +1,6 @@
 /**
 * @file exception.h
-* @author Железнов М. С.
+* @author Железнов М.С.
 * @version 1.0
 * @brief Описание класса exc
 * @date 27.05.2021
